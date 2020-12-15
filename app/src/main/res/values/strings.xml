@@ -1,0 +1,9 @@
+<resources>
+    <array name="Figures">
+        <item>Rectangle</item>
+        <item>Oval</item>
+        <item>Triangle</item>
+    </array>
+
+    <string name="app_name">Session</string>
+</resources>
